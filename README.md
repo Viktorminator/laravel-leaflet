@@ -14,9 +14,7 @@ Follow this instructions to install the project:
 
 1. Clone this repo.
     ```bash
-    $ git clone git@github.com:nafiesl/laravel-leaflet-example.git
-    # or
-    $ git clone https://github.com/nafiesl/laravel-leaflet-example.git
+    $ git clone https://github.com/Viktorminator/laravel-leaflet
     ```
 2. `$ cd laravel-leaflet-example`
 3. `$ composer install`
